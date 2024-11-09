@@ -1,0 +1,2 @@
+# studysync
+this clone sit 
